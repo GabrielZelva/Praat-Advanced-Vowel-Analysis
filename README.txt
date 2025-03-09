@@ -50,7 +50,7 @@ just copy and paste the pair a few times in the same folder
 Some other programs I have publicly available:
 -----------------------------------------------------------
 Vowel visualization tool designed to take in the output form this script: 
-LINK
+https://swlbj4-gabriel-p0.shinyapps.io/Vowel_Visualizer/
 (Really basic, made for classroom)
 
 Spanish future tense searcher:  
