@@ -48,7 +48,6 @@ if  mode$ == "Mean"
 	integer: "pitchFloor", 75
 	integer: "pitchCeiling", 600
     real: "maximumPeriodFactor", 1.3
-    comment: "If you need pitch via cepstral analysis, I have am currently working on a dedicated script for it."
     comment: "-----------------------------------------------------------------------------------------------------------------------------------------------------------"
 	comment: "Formant settings"
 	real: "timeStep", 0
@@ -77,7 +76,6 @@ elif mode$ == "Midpoint"
     choice: "interpolation", 1
         option: "nearest"
         option: "linear"
-    comment: "If you need pitch via cepstral analysis, I have a dedicated script for it. Check it out at LINK"
     comment: "-----------------------------------------------------------------------------------------------------------------------------------------------------------"
 	comment: "Formant settings"
 	real: "timeStep", 0
