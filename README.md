@@ -34,23 +34,23 @@ You may try it with the example audio + TextGrid pair attached in this repositor
 
 ## Some other programs I have publicly available:
 
-Vowel visualization tool designed to take in the output form this script:
+**Vowel visualization tool designed to take in the output form this script**:
 
 https://swlbj4-gabriel-p0.shinyapps.io/Vowel_Visualizer/
 
-(Really basic, made for classroom)
+*Really basic, made for classroom.*
 
-Spanish future tense searcher:
+**Spanish future tense searcher**:
 
 https://swlbj4-gabriel-p0.shinyapps.io/Buscador_de_futuros_interactivo/
 
-(You put in text, you get back sentences containing your selected future tense)
+*You put in text, you get back sentences containing your selected future tense.*
 
-Spanish present tense searcher:
+**Spanish present tense searcher**:
 
 https://swlbj4-gabriel-p0.shinyapps.io/spanish_present_tense_searcher/
 
-(You put in text, you get back sentences containing present tense)
+*You put in text, you get back sentences containing present tense.*
 
 ## Contact:
 If you have any questions or problems, feel free to contact me at:
