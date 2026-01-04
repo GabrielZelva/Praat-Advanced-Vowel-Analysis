@@ -44,7 +44,13 @@ Spanish future tense searcher:
 
 https://swlbj4-gabriel-p0.shinyapps.io/Buscador_de_futuros_interactivo/
 
-(You put in text, you get back phrases containing your selected future tense)
+(You put in text, you get back sentences containing your selected future tense)
+
+Spanish present tense searcher:
+
+https://swlbj4-gabriel-p0.shinyapps.io/spanish_present_tense_searcher/
+
+(You put in text, you get back sentences containing present tense)
 
 ## Contact:
 If you have any questions or problems, feel free to contact me at:
